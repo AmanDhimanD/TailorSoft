@@ -8,6 +8,4 @@ TailorSoft Project
 **Code Editor :- VScode**
 ------------
 ### Welcome Page
-
-> Welcome <br/>
 > ![ScreenShot](SSoft/1.PNG)
