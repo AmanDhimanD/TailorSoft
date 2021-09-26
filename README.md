@@ -10,4 +10,4 @@ TailorSoft Project
 ### Welcome Page
 > ![ScreenShot](SSoft/1.PNG)
 <br /> 
->  ![ScreenShot](SSoft/1.1.PNG)
+> ![ScreenShot](SSoft/1.1.PNG)
