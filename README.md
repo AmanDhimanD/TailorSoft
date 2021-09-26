@@ -6,3 +6,4 @@ TailorSoft Project
 - Back End : PHP 
 - Database : MySql <br /> 
 **Code Editor :- VScode**
+------------
