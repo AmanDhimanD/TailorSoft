@@ -1,10 +1,10 @@
 # TailorSoft
-TailorSoft Project :tw-2728: :tw-2b50:
-# Technology Used :tw-2712:
+TailorSoft Project 
+# Technology Used 
 ------------
-- Front End  : HTML CSS & Bootstrap
-- Back End :tw-2709: : PHP 
-- Database :tw-26a1:  : MySql <br /> 
+- Front End  : HTML CSS & Bootstrap ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+- Back End   : PHP 
+- Database   : MySql <br /> 
 **Code Editor :- VScode**
 ------------
 ### Welcome Page
