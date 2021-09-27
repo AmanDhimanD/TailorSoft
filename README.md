@@ -21,4 +21,8 @@ Add, delete & update the Details
 > ![ScreenShot](SSoft/4.PNG)
 ### Delete the data
 > ![ScreenShot](SSoft/ezgif.com-gif-maker.gif)
-> ![ScreenShot](SSoft/5 delt.PNG)
+## Employee Dashboard 
+> ![ScreenShot](SSoft/6.PNG)
+
+# Work Directory
+> ![ScreenShot](SSoft/WorkingDirectory.PNG)
