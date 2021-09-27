@@ -4,7 +4,7 @@ TailorSoft Project
 ------------
 - Front End  : HTML CSS & Bootstrap ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 - Back End   : PHP 
-- Database   : MySql ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) <br /> 
+- Database   : MySql <br /> 
 **Code Editor :- VScode**
 ------------
 ### Welcome Page
