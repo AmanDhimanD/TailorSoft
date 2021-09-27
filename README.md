@@ -24,8 +24,10 @@ Add, delete & update the Details
 ## Employee Dashboard 
 > ![ScreenShot](SSoft/6.PNG)
 
+# Admin DATABASE
+> ![ScreenShot](SSoft/admin.PNG)
+
 # Work Directory
 > ![ScreenShot](SSoft/WorkingDirectory.PNG)
 
-# Admin DATABASE
-> ![ScreenShot](SSoft/admin.PNG)
+
