@@ -1,8 +1,8 @@
 # TailorSoft
 TailorSoft Project :tw-2728: :tw-2b50:
-# Technology Used
+# Technology Used :tw-2712:
 ------------
-- Front End :tw-2712: : HTML CSS & Bootstrap
+- Front End  : HTML CSS & Bootstrap
 - Back End :tw-2709: : PHP 
 - Database :tw-26a1:  : MySql <br /> 
 **Code Editor :- VScode**
