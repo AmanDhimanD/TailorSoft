@@ -8,7 +8,7 @@ TailorSoft Project
 **Code Editor :- VScode**
 ------------
 ### Welcome Page
-> ![ScreenShot](SSoft/1.PNG) 
+> ![ScreenShot](SSoft/1.PNG width="23") 
 > ![ScreenShot](SSoft/1.1.PNG)
 
 ### Admin Panel
