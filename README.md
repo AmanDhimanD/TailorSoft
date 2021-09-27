@@ -26,3 +26,6 @@ Add, delete & update the Details
 
 # Work Directory
 > ![ScreenShot](SSoft/WorkingDirectory.PNG)
+
+# Admin DATABASE
+> ![ScreenShot](SSoft/admin.PNG)
